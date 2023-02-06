@@ -11,6 +11,11 @@
 <!-- -----------start news----------- -->
 <?php include('news.php'); ?>
 
+<!-- -----------start e-books----------- -->
+<?php include('e-books.php'); ?>
+
+<!-- -----------start multimedia----------- -->
+<?php include('multimedia.php'); ?>
 
 <!-- -----------start footer----------- -->
 <?php include('footer.php'); ?>
