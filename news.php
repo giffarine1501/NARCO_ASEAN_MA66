@@ -44,7 +44,7 @@
                     <div class="card-news shadow-sm" >
                         <img src="assets/img/news/n1.jpg" class="img-news" alt="...">
                         <div class="card-body">
-                            <a href="" class="text_news">
+                            <a href="" class="text_news" title="" title="">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>
@@ -60,7 +60,7 @@
                     <div class="card-news shadow-sm" >
                         <img src="assets/img/news/n2.jpg" class="img-news" alt="...">
                         <div class="card-body">
-                            <a href="" class="text_news">
+                            <a href="" class="text_news" title="">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>
@@ -76,7 +76,7 @@
                     <div class="card-news shadow-sm" >
                         <img src="assets/img/news/n3.jpg" class="img-news" alt="...">
                         <div class="card-body">
-                            <a href="" class="text_news">
+                            <a href="" class="text_news" title="">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>
@@ -92,7 +92,7 @@
                     <div class="card-news shadow-sm" >
                         <img src="assets/img/news/n4.jpg" class="img-news" alt="...">
                         <div class="card-body">
-                            <a href="" class="text_news">
+                            <a href="" class="text_news" title="">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>
@@ -111,7 +111,7 @@
                     <div class="card-news shadow-sm" >
                         <img src="assets/img/news/n5.jpg" class="img-news" alt="...">
                         <div class="card-body">
-                            <a href="" class="text_news">
+                            <a href="" class="text_news" title="">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>
@@ -127,7 +127,7 @@
                     <div class="card-news shadow-sm" >
                         <img src="assets/img/news/n6.jpg" class="img-news" alt="...">
                         <div class="card-body">
-                            <a href="" class="text_news">
+                            <a href="" class="text_news" title="">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>
@@ -143,7 +143,7 @@
                     <div class="card-news shadow-sm" >
                         <img src="assets/img/news/n7.jpg" class="img-news" alt="...">
                         <div class="card-body">
-                            <a href="" class="text_news">
+                            <a href="" class="text_news" title="">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>
@@ -159,7 +159,7 @@
                     <div class="card-news shadow-sm" >
                         <img src="assets/img/news/n8.jpg" class="img-news" alt="...">
                         <div class="card-body">
-                            <a href="" class="text_news">
+                            <a href="" class="text_news" title="">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>
@@ -178,7 +178,7 @@
                     <div class="card-news shadow-sm" >
                         <img src="assets/img/news/n1.jpg" class="img-news" alt="...">
                         <div class="card-body">
-                            <a href="" class="text_news">
+                            <a href="" class="text_news" title="">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>
@@ -194,7 +194,7 @@
                     <div class="card-news shadow-sm" >
                         <img src="assets/img/news/n3.jpg" class="img-news" alt="...">
                         <div class="card-body">
-                            <a href="" class="text_news">
+                            <a href="" class="text_news" title="">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>
@@ -210,7 +210,7 @@
                     <div class="card-news shadow-sm" >
                         <img src="assets/img/news/n5.jpg" class="img-news" alt="...">
                         <div class="card-body">
-                            <a href="" class="text_news">
+                            <a href="" class="text_news" title="">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>
@@ -226,7 +226,7 @@
                     <div class="card-news shadow-sm" >
                         <img src="assets/img/news/n7.jpg" class="img-news" alt="...">
                         <div class="card-body">
-                            <a href="" class="text_news">
+                            <a href="" class="text_news" title="">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>

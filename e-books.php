@@ -1,4 +1,4 @@
-<div class="container mt-4 mb-4">
+<div class="container mt-4 ">
     <div class="row">
         <div class="col-12 col-sm-9 col-md-9 col-lg-10 pl-0">
             <h2 class="color-topic">หนังสืออิเล็กทรอนิกส์</h2>
@@ -12,12 +12,12 @@
     </div>
 
     <div class="row">
-        <div class="col-12 col-lg-4 col-md-6 col-sm-12 mb-3">
+        <div class="col-12 col-lg-4 col-md-6 col-sm-12 ">
             <div class="row mt-2">
                 <div class="card p-2 ">
                     <div class="row">
                         <div class="col-lg-6 p-0 text-center">
-                            <img src="assets/img/book.jpg" class="card-img-top" alt="...">
+                            <img src="assets/img/book.jpg" class="card-img-top" alt="..." title="">
                         </div>
                         <div class="col-lg-6 p-0">
                             <div class="card-body p-2 ">
@@ -37,12 +37,12 @@
             </div>
         </div>
 
-        <div class="col-12 col-lg-4 col-md-6 col-sm-12 mb-3">
+        <div class="col-12 col-lg-4 col-md-6 col-sm-12 ">
             <div class="row mt-2">
                 <div class="card p-2 ">
                     <div class="row">
                         <div class="col-lg-6 p-0 text-center">
-                            <img src="assets/img/book.jpg" class="card-img-top" alt="...">
+                            <img src="assets/img/book.jpg" class="card-img-top" alt="..." title="">
                         </div>
                         <div class="col-lg-6 p-0">
                             <div class="card-body p-2 ">
@@ -62,12 +62,12 @@
             </div>
         </div>
 
-        <div class="col-12 col-lg-4 col-md-6 col-sm-12 mb-3">
+        <div class="col-12 col-lg-4 col-md-6 col-sm-12 ">
             <div class="row mt-2">
                 <div class="card p-2 ">
                     <div class="row">
                         <div class="col-lg-6 p-0 text-center">
-                            <img src="assets/img/book.jpg" class="card-img-top" alt="...">
+                            <img src="assets/img/book.jpg" class="card-img-top" alt="..." title="">
                         </div>
                         <div class="col-lg-6 p-0">
                             <div class="card-body p-2 ">
@@ -87,12 +87,12 @@
             </div>
         </div>
 
-        <div class="col-12 col-lg-4 col-md-6 col-sm-12 mb-3">
+        <div class="col-12 col-lg-4 col-md-6 col-sm-12 ">
             <div class="row mt-2">
                 <div class="card p-2 ">
                     <div class="row">
                         <div class="col-lg-6 p-0 text-center">
-                            <img src="assets/img/book.jpg" class="card-img-top" alt="...">
+                            <img src="assets/img/book.jpg" class="card-img-top" alt="..." title="">
                         </div>
                         <div class="col-lg-6 p-0">
                             <div class="card-body p-2 ">
@@ -112,12 +112,12 @@
             </div>
         </div>
 
-        <div class="col-12 col-lg-4 col-md-6 col-sm-12 mb-3">
+        <div class="col-12 col-lg-4 col-md-6 col-sm-12 ">
             <div class="row mt-2">
                 <div class="card p-2 ">
                     <div class="row">
                         <div class="col-lg-6 p-0 text-center">
-                            <img src="assets/img/book.jpg" class="card-img-top" alt="...">
+                            <img src="assets/img/book.jpg" class="card-img-top" alt="..." title="">
                         </div>
                         <div class="col-lg-6 p-0">
                             <div class="card-body p-2 ">
@@ -137,12 +137,12 @@
             </div>
         </div>
 
-        <div class="col-12 col-lg-4 col-md-6 col-sm-12 mb-3">
+        <div class="col-12 col-lg-4 col-md-6 col-sm-12 ">
             <div class="row mt-2">
                 <div class="card p-2 ">
                     <div class="row">
                         <div class="col-lg-6 p-0 text-center">
-                            <img src="assets/img/book.jpg" class="card-img-top" alt="...">
+                            <img src="assets/img/book.jpg" class="card-img-top" alt="..." title="">
                         </div>
                         <div class="col-lg-6 p-0">
                             <div class="card-body p-2 ">

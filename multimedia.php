@@ -1,27 +1,40 @@
-<div class="bg-short">
+<div class="bg-short pt-2 pb-3">
     <div class="container text-center">
-        <h2 class="color-topic">สื่อมัลติมีเดีย</h2>
+        <h2 class="color-topic mt-3">สื่อมัลติมีเดีย</h2>
         <p class="color-topic2">สื่อที่ดีสำหรับคุณ</p>
-        <div class="row">
-            <div class="col">
-                <iframe src="https://www.youtube.com/embed/jlrYz2kw9XY" title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowfullscreen></iframe>
+        <div class="mt-30 px-0">
+            <div class="row mx-0 px-0">
+                <div class="col-12 col-sm-3 col-md-4 col-lg-3 p-0">
+                    <iframe width="260px" src="https://www.youtube.com/embed/jlrYz2kw9XY" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                </div>
+                <div class="col-12 col-sm-3 col-md-4 col-lg-3 p-0">
+                    <iframe width="260px" src="https://www.youtube.com/embed/LAPH3LA9vos" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                </div>
+                <div class="col-12 col-sm-3 col-md-4 col-lg-3 p-0">
+                    <iframe width="260px" src="https://www.youtube.com/embed/z_lOZt5GALY" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                </div>
+                <div class="col-12 col-sm-3 col-md-4 col-lg-3 p-0">
+                    <iframe width="260px" src="https://www.youtube.com/embed/vI6-RD4wcBM" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                </div>
             </div>
-            <div class="col">
-                <iframe src="https://www.youtube.com/embed/LAPH3LA9vos" title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowfullscreen></iframe>
-            </div>
-            <div class="col">
-                <iframe src="https://www.youtube.com/embed/z_lOZt5GALY" title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowfullscreen></iframe>
-            </div>
-            <div class="col">
-                <iframe src="https://www.youtube.com/embed/vI6-RD4wcBM" title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowfullscreen></iframe>
+        </div>
+        <div class="mt-3">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <button type="button" class="btn-all" onclick="window.location='#'">
+                    <div class="text_all-btn text-center">ดูทั้งหมด</div>
+                </button>
             </div>
         </div>
     </div>

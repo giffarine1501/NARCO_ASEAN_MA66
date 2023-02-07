@@ -17,6 +17,9 @@
 <!-- -----------start multimedia----------- -->
 <?php include('multimedia.php'); ?>
 
+<!-- -----------start slide_agency----------- -->
+<?php include('slide_agency.php'); ?>
+
 <!-- -----------start footer----------- -->
 <?php include('footer.php'); ?>
 <?php include('combottom.php'); ?>

@@ -2,14 +2,30 @@
     box-sizing: border-box;
     font-family: 'Kanit', sans-serif;
 }
-/* .container{
+a:hover {
+    color: #545454;
+    text-decoration: none;
+  }
+.container{
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
-} */
+}
 .logo-header-set{
     width: 300px;
     padding-left: 1rem;
+}
+.font-s {
+    font-size: 13px;
+}
+.font-m {
+    font-size: 16px;
+}
+.font-l {
+    font-size: 19px;
+}
+.nav-color{
+    color: #343434;
 }
 .logo-footer-set{
     width: 350px;
@@ -21,7 +37,7 @@
     color: #fff;
 }
 .menu-set{
-    padding: 0 15px;
+    padding:0px 12px 0px 12px;
 }
 .txtcolor-white {
     color: #fff ;
@@ -118,7 +134,6 @@ h5{
     border-top-left-radius: 0.25rem;
     border-top-right-radius: 0.25rem;
     background-color: #fff;
-    
 }
 .nav-tabs .nav-link.active {
     border-bottom: 5px solid #2F60AD;
@@ -160,4 +175,10 @@ a.foot:hover {
 }
 .card{
     border: none;
+}
+.agency-img{
+    border-radius: 10px;
+    width: 255px;
+    margin-left: auto;
+    margin-right: auto;
 }
