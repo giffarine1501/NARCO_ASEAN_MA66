@@ -3,14 +3,14 @@
     <div class="row">
       <div class="col">
         <div id="Main_banner_slideIndicators" class="carousel slide rounded" data-ride="carousel">
-          <ol class="carousel-indicators" style="bottom: -50px;">
+          <ol class="carousel-indicators set-carousel" >
             <li data-target="#Main_banner_slideIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#Main_banner_slideIndicators" data-slide-to="1" class=""></li>
           </ol>
           <div class="carousel-inner">
 
             <div class="carousel-item active">
-              <div class="row">
+              <div class="row ">
                 <div class="col-6 col-sm-3 col-md-2 col-xl-2 mt-4  text-center">
                   <a target="_self" href="#" class="box-set shadow-sm">
                     <img class="img-set" src="assets/img/icon/s1.png" alt="โครงการสำคัญ" title="โครงการสำคัญ">

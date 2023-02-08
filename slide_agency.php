@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col">
             <div id="agency_slideIndicators" class="carousel slide rounded" data-ride="carousel">
-                <ol class="carousel-indicators" style="bottom: -50px;">
+                <ol class="carousel-indicators set-carousel" >
                     <li data-target="#agency_slideIndicators" data-slide-to="0" class="active"></li>
                     <li data-target="#agency_slideIndicators" data-slide-to="1" class=""></li>
                     <li data-target="#agency_slideIndicators" data-slide-to="2" class=""></li>

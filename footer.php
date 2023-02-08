@@ -1,6 +1,5 @@
 <footer class="pt-4 pb-2  bg-blue ">
-	<div class="container">
-		<div class="row">
+	<div class="row container mt-50 mb-40 p-lg-0">
 			<div class="col-lg-3 col-md-3 col-sm-12 col-12 ">
 				<div class="row">
 					<div class="col-12">
@@ -8,10 +7,9 @@
 					</div>
 					<div class="col-sm-12 col-md-12 col-lg-12">
 						<ul class="list-unstyled">
-							<div class="txtcolor-white">
-								<li>สำนักงาน ป.ป.ส
-									<br>เลขที่ 5 ถนนดินแดง แขวงสามเสนใน
-									<br>เขตพญาไท กรุงเทพมหานคร 10400
+							<div class="txtcolor-white mb-2">
+								<li>เลขที่ 5 ถ.ดินแดง แขวงพญาไท เขตพญาไท กรุงเทพฯ 10400
+									<br>อีเมล : aseannarco@oncb.go.th
 								</li>
 							</div>
 						</ul>
@@ -22,7 +20,7 @@
 			<div class="col-lg-6 col-md-6 col-sm-12 col-12 ">
 				<div class="row">
 					<div class="col-12 ">
-						<h5 class="txtcolor-white foot pt-4"> แผนผังเว็บไซต์ </h5>
+						<h5 class="txtcolor-white foot pt-2"> แผนผังเว็บไซต์ </h5>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12 col-12 ">
 						<ul class="list-unstyled">
@@ -74,7 +72,7 @@
 			<div class="col-lg-3 col-md-3 col-sm-12 col-12 ">
 				<div class="row">
 					<div class="col-12">
-						<h5 class="txtcolor-white foot pt-4"> ช่องทางติดต่อเรา </h5>
+						<h5 class="txtcolor-white foot pt-2"> ช่องทางติดต่อเรา </h5>
 					</div>
 					<div class="col-lg-12 col-md-12 col-sm-12 col-12">
 						<ul class="list-unstyled">
@@ -98,7 +96,6 @@
 											class="fab fa-facebook-square"></i></a>
 									<a class="txtcolor-white foot" href="#" title="twitter" target="_self"><i
 											class="fab fa-twitter-square"></i></a>
-
 								</li>
 							</div>
 						</ul>
@@ -109,5 +106,4 @@
 		<div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center line">
 			<p class="txtcolor-white foot ">&copy; สำนักงาน ป.ป.ส. อาเซียน (ASEAN Narcotics Cooperation Center) </p>
 		</div>
-	</div>
 </footer>

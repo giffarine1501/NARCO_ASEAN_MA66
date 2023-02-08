@@ -1,13 +1,13 @@
 <div id="carousel_banner_slide" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/img/banner/banner1.png" class="d-block w-100" alt="assets/img/banner/banner1.png">
+      <img src="assets/img/banner/banner1.png" class="d-block w-100" alt="banner1">
     </div>
     <div class="carousel-item">
-      <img src="assets/img/banner/banner2.png" class="d-block w-100" alt="assets/img/banner/banner2.png">
+      <img src="assets/img/banner/banner2.png" class="d-block w-100" alt="banner2">
     </div>
     <div class="carousel-item">
-      <img src="assets/img/banner/banner3.png" class="d-block w-100" alt="assets/img/banner/banner3.png">
+      <img src="assets/img/banner/banner3.png" class="d-block w-100" alt="banner3">
     </div>
   </div>
 
