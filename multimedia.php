@@ -1,29 +1,29 @@
-<div class="bg-short pt-2 pb-3">
+<div class="bg-short p-4">
     <div class="container text-center">
         <h2 class="color-topic mt-3">สื่อมัลติมีเดีย</h2>
         <p class="color-topic2">สื่อที่ดีสำหรับคุณ</p>
         <div class="mt-30 px-0">
             <div class="row mx-0 px-0">
-                <div class="col-12 col-sm-3 col-md-4 col-lg-3 p-0">
-                    <iframe width="260px" src="https://www.youtube.com/embed/jlrYz2kw9XY" title="YouTube video player"
+                <div class="col-12 col-sm-3 col-md-6 col-lg-3 p-2">
+                    <iframe class="youtube" src="https://www.youtube.com/embed/jlrYz2kw9XY" title="YouTube video player"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowfullscreen></iframe>
                 </div>
-                <div class="col-12 col-sm-3 col-md-4 col-lg-3 p-0">
-                    <iframe width="260px" src="https://www.youtube.com/embed/LAPH3LA9vos" title="YouTube video player"
+                <div class="col-12 col-sm-3 col-md-6 col-lg-3 p-2">
+                    <iframe class="youtube" src="https://www.youtube.com/embed/LAPH3LA9vos" title="YouTube video player"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowfullscreen></iframe>
                 </div>
-                <div class="col-12 col-sm-3 col-md-4 col-lg-3 p-0">
-                    <iframe width="260px" src="https://www.youtube.com/embed/z_lOZt5GALY" title="YouTube video player"
+                <div class="col-12 col-sm-3 col-md-6 col-lg-3 p-2">
+                    <iframe class="youtube" src="https://www.youtube.com/embed/z_lOZt5GALY" title="YouTube video player"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowfullscreen></iframe>
                 </div>
-                <div class="col-12 col-sm-3 col-md-4 col-lg-3 p-0">
-                    <iframe width="260px" src="https://www.youtube.com/embed/vI6-RD4wcBM" title="YouTube video player"
+                <div class="col-12 col-sm-3 col-md-6 col-lg-3 p-2">
+                    <iframe class="youtube" src="https://www.youtube.com/embed/vI6-RD4wcBM" title="YouTube video player"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowfullscreen></iframe>

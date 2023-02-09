@@ -1,7 +1,7 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-white p-0 menu">
+<nav class="navbar navbar-expand-lg navbar-dark bg-white p-0">
   <div class="container-fluid">
     <a class="d-inline-flex" href="index.php">
-      <img src="assets/img/logo-header.png" title="logo-header" alt="logo-header" class="logo-header-set">
+      <img src="assets/img/logo-header.png" alt="logo-header" class="logo-header-set">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
       aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -10,15 +10,15 @@
   </div>
 
   <div class="collapse navbar-collapse " id="navbarNavDropdown">
-    <div class="row">
-      <div class="col-12">
-        <div class="row">
-          <div class="container">
-            <div class="col-lg-6 col-12 display-logo">
+    <div class="row mx-0">
+      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 p-0">
+        <div class="container px-0 py-2">
+          <div class="row mx-0 top-menu">
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 display-logo">
               <a class="navbar-brand p-0"><img src="assets/img/logo-header.png" alt="logo-header"
                   class="logo-header-set"></a>
             </div>
-            <div class="col-lg-6 col-12 layout">
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 layout">
               <div class="nav-item">
                 <a class="px-2 px-lg-1 nav-color" href="#">
                   <span class="font-s" id="decrease" value="Decrease"> ก </span></a>
@@ -44,12 +44,12 @@
           </div>
         </div>
       </div>
-      <div class="col-12 p-0">
+      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 p-0">
         <div class="bg-blue">
           <div class="container">
-            <ul class="navbar-nav px-2 justify-content-between">
+            <ul class="navbar-nav justify-content-between">
               <li class="nav-item menu-set">
-                <a class="nav-link" href="#" title="หน้าแรก">หน้าแรก <span class="sr-only">(current)</span></a>
+                <a class="nav-link pl-0" href="#" title="หน้าแรก">หน้าแรก <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item dropdown menu-set">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false"
