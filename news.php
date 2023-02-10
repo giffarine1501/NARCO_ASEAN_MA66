@@ -40,7 +40,7 @@
     <div class="tab-content" id="myTabContent">
         <div class="tab-pane fade show active" id="button1" role="tabpanel" aria-labelledby="button-tap1">
             <div class="row mt-3">
-                <div class="col-12 col-sm-3 col-md-6 col-lg-3 mt-3">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mt-3">
                     <div class="card-news shadow-sm">
                         <img src="assets/img/news/n1.jpg" class="img-news" alt="...">
                         <div class="card-body">
@@ -56,7 +56,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-3 col-md-6 col-lg-3 mt-3">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mt-3">
                     <div class="card-news shadow-sm">
                         <img src="assets/img/news/n2.jpg" class="img-news" alt="...">
                         <div class="card-body">
@@ -72,7 +72,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-3 col-md-6 col-lg-3 mt-3">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mt-3">
                     <div class="card-news shadow-sm">
                         <img src="assets/img/news/n3.jpg" class="img-news" alt="...">
                         <div class="card-body">
@@ -88,7 +88,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-3 col-md-6 col-lg-3 mt-3">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mt-3">
                     <div class="card-news shadow-sm">
                         <img src="assets/img/news/n4.jpg" class="img-news" alt="...">
                         <div class="card-body">
@@ -107,7 +107,7 @@
         </div>
         <div class="tab-pane fade show " id="button2" role="tabpanel" aria-labelledby="button-tap2">
             <div class="row mt-3">
-                <div class="col-12 col-sm-3 col-md-6 col-lg-3 mt-3">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mt-3">
                     <div class="card-news shadow-sm">
                         <img src="assets/img/news/n5.jpg" class="img-news" alt="...">
                         <div class="card-body">
@@ -123,7 +123,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-3 col-md-6 col-lg-3 mt-3">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mt-3">
                     <div class="card-news shadow-sm">
                         <img src="assets/img/news/n6.jpg" class="img-news" alt="...">
                         <div class="card-body">
@@ -139,7 +139,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-3 col-md-6 col-lg-3 mt-3">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mt-3">
                     <div class="card-news shadow-sm">
                         <img src="assets/img/news/n7.jpg" class="img-news" alt="...">
                         <div class="card-body">
@@ -155,7 +155,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-3 col-md-6 col-lg-3 mt-3">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mt-3">
                     <div class="card-news shadow-sm">
                         <img src="assets/img/news/n8.jpg" class="img-news" alt="...">
                         <div class="card-body">
@@ -174,7 +174,7 @@
         </div>
         <div class="tab-pane fade show " id="button3" role="tabpanel" aria-labelledby="button-tap3">
             <div class="row mt-3">
-                <div class="col-12 col-sm-3 col-md-6 col-lg-3 mt-3">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mt-3">
                     <div class="card-news shadow-sm">
                         <img src="assets/img/news/n1.jpg" class="img-news" alt="...">
                         <div class="card-body">
@@ -190,7 +190,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-3 col-md-6 col-lg-3 mt-3">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mt-3">
                     <div class="card-news shadow-sm">
                         <img src="assets/img/news/n3.jpg" class="img-news" alt="...">
                         <div class="card-body">
@@ -206,7 +206,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-3 col-md-6 col-lg-3 mt-3">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mt-3">
                     <div class="card-news shadow-sm">
                         <img src="assets/img/news/n5.jpg" class="img-news" alt="...">
                         <div class="card-body">
@@ -222,7 +222,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-3 col-md-6 col-lg-3 mt-3">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mt-3">
                     <div class="card-news shadow-sm">
                         <img src="assets/img/news/n7.jpg" class="img-news" alt="...">
                         <div class="card-body">
