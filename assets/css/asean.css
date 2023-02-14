@@ -247,7 +247,7 @@ iframe.youtube {
 }
 
 
-@media (max-width: 575.98px) {
+@media (min-width: 320px) and (max-width: 374.98px) {
     .color-topic {
         text-align: center;
     }
@@ -319,6 +319,17 @@ iframe.youtube {
     .date-view {
         font-size: 12px;
     }
+
+    .img-news-all {
+        height: max-content;
+        width: -webkit-fill-available;
+        border-radius: 10px 10px 0 0;
+    }
+
+    .pagination a {
+        padding: 0 8px;
+    }
+
 }
 
 @media (max-width: 576px) {
@@ -393,6 +404,12 @@ iframe.youtube {
     .date-view {
         font-size: 12px;
     }
+
+    .img-news-all {
+        height: max-content;
+        width: -webkit-fill-available;
+        border-radius: 10px 10px 0 0;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
@@ -430,6 +447,12 @@ iframe.youtube {
         width: -webkit-fill-available;
         height: max-content;
     }
+
+    .img-news-all {
+        height: max-content;
+        width: -webkit-fill-available;
+        border-radius: 10px 10px 0 0;
+    }
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
@@ -449,6 +472,12 @@ iframe.youtube {
 
     .menu-set {
         padding: 0;
+    }
+
+    .img-news-all {
+        height: max-content;
+        width: -webkit-fill-available;
+        border-radius: 10px 10px 0 0;
     }
 
 }
@@ -473,6 +502,7 @@ iframe.youtube {
     }
 }
 
+/* css more_news */
 form.example input[type=text] {
     padding: 10px;
     font-size: 17px;
@@ -521,30 +551,34 @@ form.example input[type=text] {
 .pagination a {
     color: #343434;
     float: left;
-    padding: 8px 16px;
+    padding: 0 8px;
     text-decoration: none;
     transition: background-color .3s;
     background-color: #D9D9D9;
-    margin: 0 4px;
+    margin: 0 2px;
 }
 
 .pagination a.active {
     background-color: #2F60AD;
     color: white;
 }
+
 .pagination .pagi {
     background-color: rgba(255, 255, 255, 0);
 }
+
 .pagination .pagi-color {
     background-color: rgba(255, 255, 255, 0);
     color: #2F60AD;
 }
+
 .button-page {
     border-radius: 10px;
     background-color: #fff;
     color: #B0AEAE;
 }
-/* .line{
-    line-height: 45px;
-    color: #2F60AD;
-} */
+
+/* css news_detail */
+.img-news-detail{
+    border-radius: 10px;
+}

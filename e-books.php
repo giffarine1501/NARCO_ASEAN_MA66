@@ -5,7 +5,7 @@
             <p class="color-topic2">ความรู้ที่พร้อมส่งถึงมือคุณด้วยหนังสืออิเล็กทรอนิกส์</p>
         </div>
         <div class="col-12 col-sm-3 col-md-3 col-lg-2 btn-center">
-            <button type="button" class="btn-all" onclick="window.location='#'">
+            <button type="button" class="btn-all" onclick="window.location='more_ebooks.php'">
                 <div class="text_all-btn text-center">ดูทั้งหมด</div>
             </button>
         </div>

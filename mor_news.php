@@ -2,7 +2,7 @@
 <?php include('comtop.php'); ?>
 <?php include('header.php'); ?>
 
-<!-- -----------start footer----------- -->
+<!-- -----------start header2----------- -->
 <div class="bg-short">
     <div class="container py-4 text-center">
         <h1 class="color-topic">ข่าวสาร</h1>
@@ -41,10 +41,10 @@
         <div class="col-12 col-sm-6 col-md-6 col-lg-6 mt-3">
             <div class="card-news shadow-sm">
                 <div class="row">
-                    <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 text-center">
+                    <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 text-center">
                         <img src="assets/img/news/n1.jpg" class="img-news-all" alt="..." title="">
                     </div>
-                    <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 ">
+                    <div class="col-12  col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 ">
                         <div class="card-body set ">
                             <ul class="list-unstyled date-view d-flex  my-0">
                                 <li><i class="fas fa-calendar"></i> 27 มกราคม 2566</li>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,11 +55,11 @@
                                     <li><i class="fas fa-bookmark"></i> ข่าวล่าสุด</li>
                                 </a>
                             </ul>
-                            <a href="#" class="text_news ">
+                            <a href="news_detail.php" target="_blank" class="text_news ">
                                 <h5> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</h5>
                             </a>
-                            <a href="#" class="text_news2 ">
+                            <a href="news_detail.php" target="_blank" class="text_news2 ">
                                 <p> Lorem ipsum dolor sit amet, consectetur
                                     adipiscing.</p>
                             </a>
@@ -69,13 +69,13 @@
             </div>
         </div>
 
-        <div class="col-12 col-sm-6 col-md-6 col-lg-6 mt-3">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6 mt-3">
             <div class="card-news shadow-sm">
                 <div class="row">
-                    <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 text-center">
+                    <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 text-center">
                         <img src="assets/img/news/n2.jpg" class="img-news-all" alt="..." title="">
                     </div>
-                    <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 ">
+                    <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 ">
                         <div class="card-body set ">
                             <ul class="list-unstyled date-view d-flex  my-0">
                                 <li><i class="fas fa-calendar"></i> 27 มกราคม 2566</li>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -99,13 +99,13 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-sm-6 col-md-6 col-lg-6 mt-3">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6 mt-3">
             <div class="card-news shadow-sm">
                 <div class="row">
-                    <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 text-center">
+                    <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 text-center">
                         <img src="assets/img/news/n3.jpg" class="img-news-all" alt="..." title="">
                     </div>
-                    <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 ">
+                    <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 ">
                         <div class="card-body set ">
                             <ul class="list-unstyled date-view d-flex  my-0">
                                 <li><i class="fas fa-calendar"></i> 27 มกราคม 2566</li>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -129,13 +129,13 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-sm-6 col-md-6 col-lg-6 mt-3">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6 mt-3">
             <div class="card-news shadow-sm">
                 <div class="row">
-                    <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 text-center">
+                    <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 text-center">
                         <img src="assets/img/news/n4.jpg" class="img-news-all" alt="..." title="">
                     </div>
-                    <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 ">
+                    <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 ">
                         <div class="card-body set ">
                             <ul class="list-unstyled date-view d-flex  my-0">
                                 <li><i class="fas fa-calendar"></i> 27 มกราคม 2566</li>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -159,13 +159,13 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-sm-6 col-md-6 col-lg-6 mt-3">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6 mt-3">
             <div class="card-news shadow-sm">
                 <div class="row">
-                    <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 text-center">
+                    <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 text-center">
                         <img src="assets/img/news/n5.jpg" class="img-news-all" alt="..." title="">
                     </div>
-                    <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 ">
+                    <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 ">
                         <div class="card-body set ">
                             <ul class="list-unstyled date-view d-flex  my-0">
                                 <li><i class="fas fa-calendar"></i> 27 มกราคม 2566</li>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -189,13 +189,13 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-sm-6 col-md-6 col-lg-6 mt-3">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6 mt-3">
             <div class="card-news shadow-sm">
                 <div class="row">
-                    <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 text-center">
+                    <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 text-center">
                         <img src="assets/img/news/n6.jpg" class="img-news-all" alt="..." title="">
                     </div>
-                    <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 ">
+                    <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 ">
                         <div class="card-body set ">
                             <ul class="list-unstyled date-view d-flex  my-0">
                                 <li><i class="fas fa-calendar"></i> 27 มกราคม 2566</li>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -222,9 +222,9 @@
     </div>
 
     <div class="row">
-        <div class="col-12 col-xl-5 col-lg-5 col-md-6 p-0">
+        <div class="col-12 col-xl-12 col-lg-12 col-md-12 p-0">
             <div class="pagination pt-5 ">
-                <a class="pagi-color pt-2" href="#"><i class="fas fa-chevron-left"></i></a>
+                <a class="pagi-color " href="#"><i class="fas fa-chevron-left"></i></a>
                 <a class="active" href="#">1</a>
                 <a href="#">2</a>
                 <a href="#">3</a>
@@ -232,21 +232,10 @@
                 <a href="#">16</a>
                 <a href="#">17</a>
                 <a href="#">18</a>
-                <a class="pagi-color pt-2" href="#"><i class="fas fa-chevron-right"></i></a>
+                <a class="pagi-color " href="#"><i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
-        <div class="col-12 col-xl-7 col-lg-7 col-md-6 p-0">
-            <div class="pagination pt-5">
-                <div class="row">
-                    <div class="pagi-color line"></div>
-                    <div class="pagi-color pb-0">ไปที่หน้า</div>
-                    <div class="">
-                        <input type="text" name="news-name" id="news-name" 
-                        class="form-control button-page shadow-sm">
-                    </div>
-                </div>
-            </div>
-        </div>
+        
     </div>
 
 </div>

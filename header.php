@@ -15,7 +15,7 @@
         <div class="container px-0 py-2">
           <div class="row mx-0 top-menu">
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 display-logo">
-              <a class="navbar-brand p-0"><img src="assets/img/logo-header.png" alt="logo-header"
+              <a class="navbar-brand p-0" href="index.php"><img src="assets/img/logo-header.png" alt="logo-header"
                   class="logo-header-set"></a>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 layout">
@@ -49,7 +49,7 @@
           <div class="container">
             <ul class="navbar-nav justify-content-between">
               <li class="nav-item menu-set">
-                <a class="nav-link pl-0" href="#" title="หน้าแรก">หน้าแรก <span class="sr-only">(current)</span></a>
+                <a class="nav-link pl-0" href="index.php" title="หน้าแรก">หน้าแรก <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item dropdown menu-set">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false"
