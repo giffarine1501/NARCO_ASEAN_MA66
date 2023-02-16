@@ -28,6 +28,7 @@
 
     <div class="row pt-3 text-center">
         <div class="col-12 col-sm-12 col-md-6 col-lg-4 px-0 pb-4">
+<<<<<<< HEAD
             <img src="assets/img/news/news1.jpg" class="img-news-detail" alt="..." title="">
         </div>
         <div class="col-12 col-sm-12 col-md-6 col-lg-4 px-0 pb-4">
@@ -44,6 +45,24 @@
         </div>
         <div class="col-12 col-sm-12 col-md-6 col-lg-4 px-0 pb-4">
             <img src="assets/img/news/news6.jpg" class="img-news-detail" alt="..." title="">
+=======
+            <img src="assets/img/news/news1.webp" class="img-news-detail" alt="..." title="">
+        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-4 px-0 pb-4">
+            <img src="assets/img/news/news2.webp" class="img-news-detail" alt="..." title="">
+        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-4 px-0 pb-4">
+            <img src="assets/img/news/news3.webp" class="img-news-detail" alt="..." title="">
+        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-4 px-0 pb-4">
+            <img src="assets/img/news/news4.webp" class="img-news-detail" alt="..." title="">
+        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-4 px-0 pb-4">
+            <img src="assets/img/news/news5.webp" class="img-news-detail" alt="..." title="">
+        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-4 px-0 pb-4">
+            <img src="assets/img/news/news6.webp" class="img-news-detail" alt="..." title="">
+>>>>>>> 436d1f5 (add file 16/02/66)
         </div>
     </div>
 

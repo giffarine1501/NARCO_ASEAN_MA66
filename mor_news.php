@@ -42,7 +42,11 @@
             <div class="card-news shadow-sm">
                 <div class="row">
                     <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 text-center">
+<<<<<<< HEAD
                         <img src="assets/img/news/n1.jpg" class="img-news-all" alt="..." title="">
+=======
+                        <img src="assets/img/news/n1.webp" class="img-news-all" alt="..." title="">
+>>>>>>> 436d1f5 (add file 16/02/66)
                     </div>
                     <div class="col-12  col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 ">
                         <div class="card-body set ">
@@ -73,7 +77,11 @@
             <div class="card-news shadow-sm">
                 <div class="row">
                     <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 text-center">
+<<<<<<< HEAD
                         <img src="assets/img/news/n2.jpg" class="img-news-all" alt="..." title="">
+=======
+                        <img src="assets/img/news/n2.webp" class="img-news-all" alt="..." title="">
+>>>>>>> 436d1f5 (add file 16/02/66)
                     </div>
                     <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 ">
                         <div class="card-body set ">
@@ -103,7 +111,11 @@
             <div class="card-news shadow-sm">
                 <div class="row">
                     <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 text-center">
+<<<<<<< HEAD
                         <img src="assets/img/news/n3.jpg" class="img-news-all" alt="..." title="">
+=======
+                        <img src="assets/img/news/n3.webp" class="img-news-all" alt="..." title="">
+>>>>>>> 436d1f5 (add file 16/02/66)
                     </div>
                     <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 ">
                         <div class="card-body set ">
@@ -133,7 +145,11 @@
             <div class="card-news shadow-sm">
                 <div class="row">
                     <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 text-center">
+<<<<<<< HEAD
                         <img src="assets/img/news/n4.jpg" class="img-news-all" alt="..." title="">
+=======
+                        <img src="assets/img/news/n4.webp" class="img-news-all" alt="..." title="">
+>>>>>>> 436d1f5 (add file 16/02/66)
                     </div>
                     <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 ">
                         <div class="card-body set ">
@@ -163,7 +179,11 @@
             <div class="card-news shadow-sm">
                 <div class="row">
                     <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 text-center">
+<<<<<<< HEAD
                         <img src="assets/img/news/n5.jpg" class="img-news-all" alt="..." title="">
+=======
+                        <img src="assets/img/news/n5.webp" class="img-news-all" alt="..." title="">
+>>>>>>> 436d1f5 (add file 16/02/66)
                     </div>
                     <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 ">
                         <div class="card-body set ">
@@ -193,7 +213,11 @@
             <div class="card-news shadow-sm">
                 <div class="row">
                     <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 text-center">
+<<<<<<< HEAD
                         <img src="assets/img/news/n6.jpg" class="img-news-all" alt="..." title="">
+=======
+                        <img src="assets/img/news/n6.webp" class="img-news-all" alt="..." title="">
+>>>>>>> 436d1f5 (add file 16/02/66)
                     </div>
                     <div class="col-12 col-xl-6 col-lg-12 col-md-12 col-sm-12 p-0 ">
                         <div class="card-body set ">

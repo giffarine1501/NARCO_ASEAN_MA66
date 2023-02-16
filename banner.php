@@ -1,6 +1,7 @@
 <div id="carousel_banner_slide" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
+<<<<<<< HEAD
       <img src="assets/img/banner/banner1.png" class="d-block w-100" alt="banner1">
     </div>
     <div class="carousel-item">
@@ -8,6 +9,15 @@
     </div>
     <div class="carousel-item">
       <img src="assets/img/banner/banner3.png" class="d-block w-100" alt="banner3">
+=======
+      <img src="assets/img/banner/banner1.webp" class="d-block w-100" alt="banner1">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/banner/banner2.webp" class="d-block w-100" alt="banner2">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/banner/banner3.webp" class="d-block w-100" alt="banner3">
+>>>>>>> 436d1f5 (add file 16/02/66)
     </div>
   </div>
 
