@@ -28,6 +28,10 @@ h5 {
     margin-right: 0;
 }
 
+.bg-main{
+    background-color: #fff;
+
+}
 .bg-blue {
     background-color: #2F60AD;
 }
@@ -45,13 +49,10 @@ h5 {
     flex: auto;
 }
 
-<<<<<<< HEAD
-=======
 .change-font {
-    padding: 9px;
+    padding: 0px 3px 0px 0px;
 }
 
->>>>>>> 436d1f5 (add file 16/02/66)
 .font-s {
     font-size: 13px;
 }
@@ -64,8 +65,6 @@ h5 {
     font-size: 19px;
 }
 
-<<<<<<< HEAD
-=======
 .change-lang {
     padding-left: 3px;
     padding-right: 3px;
@@ -74,6 +73,7 @@ h5 {
 .change-display {
     padding-left: 3px;
     padding-right: 3px;
+    padding-bottom: 3px;
 }
 
 .f-1 {
@@ -100,7 +100,6 @@ h5 {
     border-radius: 4px;
 }
 
->>>>>>> 436d1f5 (add file 16/02/66)
 .nav-color {
     color: #343434;
 }
@@ -116,7 +115,7 @@ h5 {
 
 .layout {
     display: flex;
-    justify-content: end;
+    justify-content: center;
     align-items: end;
 }
 
@@ -126,11 +125,7 @@ h5 {
 
 /* css footer */
 .logo-footer-set {
-<<<<<<< HEAD
-    width: 350px;
-=======
     width: 340px;
->>>>>>> 436d1f5 (add file 16/02/66)
 }
 
 .txtcolor-white {
@@ -335,25 +330,18 @@ iframe.youtube {
 
     .layout {
         display: flex;
-        justify-content: start;
+        justify-content: center;
         align-items: center;
         align-content: flex-end;
         flex-direction: row;
     }
 
-<<<<<<< HEAD
     .logo-footer-set {
         max-width: 250px;
-=======
-    .nav-layout {
-        justify-content: center;
-        margin-left: auto;
-        margin-right: auto;
     }
 
     .logo-footer-set {
         max-width: 285px;
->>>>>>> 436d1f5 (add file 16/02/66)
     }
 
     .text_shortcut {
@@ -429,27 +417,12 @@ iframe.youtube {
         width: 200px;
     }
 
-    .layout {
-        display: flex;
-        justify-content: start;
-        align-items: center;
-        align-content: flex-end;
-        flex-direction: row;
-    }
-
-<<<<<<< HEAD
     .logo-footer-set {
         max-width: 250px;
-=======
-    .nav-layout {
-        justify-content: center;
-        margin-left: auto;
-        margin-right: auto;
     }
 
     .logo-footer-set {
         max-width: 285px;
->>>>>>> 436d1f5 (add file 16/02/66)
     }
 
     .text_shortcut {
@@ -540,29 +513,16 @@ iframe.youtube {
         font-size: 14px;
     }
 
-    .menu-set {
-<<<<<<< HEAD
-        padding: 0;
-=======
-        padding: 3px;
->>>>>>> 436d1f5 (add file 16/02/66)
-    }
-
     .img-news-all {
         height: max-content;
         width: -webkit-fill-available;
         border-radius: 10px 10px 0 0;
     }
 
-<<<<<<< HEAD
-=======
-    .nav-layout {
-        justify-content: end;
-        margin-left: 0;
-        margin-right: 0;
+    .menu-set {
+        padding-inline: 0;
     }
 
->>>>>>> 436d1f5 (add file 16/02/66)
 }
 
 @media (min-width: 1200px) {
@@ -585,8 +545,6 @@ iframe.youtube {
     }
 }
 
-<<<<<<< HEAD
-=======
 @media (min-width: 992px) {
     .dropdown-menu .dropdown-toggle:after {
         border-top: .3em solid transparent;
@@ -623,9 +581,13 @@ iframe.youtube {
     .dropdown-menu>li:hover>.submenu {
         display: block;
     }
+    .layout {
+        display: flex;
+        justify-content: end;
+        align-items: end;
+    }
 }
 
->>>>>>> 436d1f5 (add file 16/02/66)
 /* css more_news */
 form.example input[type=text] {
     padding: 10px;
@@ -703,10 +665,6 @@ form.example input[type=text] {
 }
 
 /* css news_detail */
-<<<<<<< HEAD
-.img-news-detail{
-=======
 .img-news-detail {
->>>>>>> 436d1f5 (add file 16/02/66)
     border-radius: 10px;
 }

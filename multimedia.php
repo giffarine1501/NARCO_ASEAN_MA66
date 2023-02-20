@@ -1,10 +1,6 @@
 <div class="bg-short p-4">
     <div class="container text-center">
-<<<<<<< HEAD
-        <h2 class="color-topic mt-3">สื่อมัลติมีเดีย</h2>
-=======
         <h1 class="color-topic mt-3">สื่อมัลติมีเดีย</h1>
->>>>>>> 436d1f5 (add file 16/02/66)
         <p class="color-topic2">สื่อที่ดีสำหรับคุณ</p>
         <div class="mt-30 px-0">
             <div class="row mx-0 px-0">

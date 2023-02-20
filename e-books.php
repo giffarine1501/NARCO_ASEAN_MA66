@@ -1,11 +1,7 @@
 <div class="container p-4">
     <div class="row">
         <div class="col-12 col-sm-9 col-md-9 col-lg-10 pl-0">
-<<<<<<< HEAD
-            <h2 class="color-topic">หนังสืออิเล็กทรอนิกส์</h2>
-=======
             <h1 class="color-topic">หนังสืออิเล็กทรอนิกส์</h1>
->>>>>>> 436d1f5 (add file 16/02/66)
             <p class="color-topic2">ความรู้ที่พร้อมส่งถึงมือคุณด้วยหนังสืออิเล็กทรอนิกส์</p>
         </div>
         <div class="col-12 col-sm-3 col-md-3 col-lg-2 btn-center">
@@ -21,11 +17,7 @@
                 <div class="card p-0 ">
                     <div class="row">
                         <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 text-center">
-<<<<<<< HEAD
-                            <img src="assets/img/book.jpg" class="card-img-top" alt="..." title="">
-=======
                             <img src="assets/img/book.webp" class="card-img-top" alt="..." title="">
->>>>>>> 436d1f5 (add file 16/02/66)
                         </div>
                         <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0">
                             <div class="card-body p-0 ">
@@ -50,11 +42,7 @@
                 <div class="card p-0 ">
                     <div class="row">
                         <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 text-center">
-<<<<<<< HEAD
-                            <img src="assets/img/book.jpg" class="card-img-top" alt="..." title="">
-=======
                             <img src="assets/img/book.webp" class="card-img-top" alt="..." title="">
->>>>>>> 436d1f5 (add file 16/02/66)
                         </div>
                         <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0">
                             <div class="card-body p-0 ">
@@ -79,11 +67,7 @@
                 <div class="card p-0 ">
                     <div class="row">
                         <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 text-center">
-<<<<<<< HEAD
-                            <img src="assets/img/book.jpg" class="card-img-top" alt="..." title="">
-=======
                             <img src="assets/img/book.webp" class="card-img-top" alt="..." title="">
->>>>>>> 436d1f5 (add file 16/02/66)
                         </div>
                         <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0">
                             <div class="card-body p-0 ">
@@ -108,11 +92,7 @@
                 <div class="card p-0 ">
                     <div class="row">
                         <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 text-center">
-<<<<<<< HEAD
-                            <img src="assets/img/book.jpg" class="card-img-top" alt="..." title="">
-=======
                             <img src="assets/img/book.webp" class="card-img-top" alt="..." title="">
->>>>>>> 436d1f5 (add file 16/02/66)
                         </div>
                         <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0">
                             <div class="card-body p-0 ">
@@ -137,11 +117,7 @@
                 <div class="card p-0 ">
                     <div class="row">
                         <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 text-center">
-<<<<<<< HEAD
-                            <img src="assets/img/book.jpg" class="card-img-top" alt="..." title="">
-=======
                             <img src="assets/img/book.webp" class="card-img-top" alt="..." title="">
->>>>>>> 436d1f5 (add file 16/02/66)
                         </div>
                         <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0">
                             <div class="card-body p-0 ">
@@ -166,11 +142,7 @@
                 <div class="card p-0 ">
                     <div class="row">
                         <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0 text-center">
-<<<<<<< HEAD
-                            <img src="assets/img/book.jpg" class="card-img-top" alt="..." title="">
-=======
                             <img src="assets/img/book.webp" class="card-img-top" alt="..." title="">
->>>>>>> 436d1f5 (add file 16/02/66)
                         </div>
                         <div class="col-6 col-lg-6 col-xl-6 col-md-6 col-sm-6 p-0">
                             <div class="card-body p-0 ">
