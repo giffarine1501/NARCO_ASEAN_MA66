@@ -72,7 +72,7 @@ $(document).ready(function () {
         $(".nav-tabs .nav-link").css("background-color", "#000");
         $(".card").css("background-color", "#000");
         $(".card").css("background-color", "#000");
-        $(".button-set3").css("background-color", "#B0AEAE");
+        $(".button-set3").css("background-color", "#ffff00");
         $(".button-set3").css("color", "#000");
         $(".txtcolor-white").css("color", "#ffff00");
         $(".line").css("border-top", "1px #ffff00 solid");

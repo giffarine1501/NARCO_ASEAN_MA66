@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-main p-0">
+<nav class="navbar navbar-expand-lg navbar-dark bg-main p-0 fixed-top">
   <div class="container-fluid">
     <a class="d-inline-flex" href="index.php">
       <img src="assets/img/logo-header.png" alt="logo-header" class="logo-header-set"

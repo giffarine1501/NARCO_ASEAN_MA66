@@ -16,6 +16,10 @@ h5 {
     font-size: 20px;
 }
 
+.setmt {
+    margin-top: 107px;
+}
+
 .container {
     display: block;
     max-width: 1200px;
@@ -28,10 +32,11 @@ h5 {
     margin-right: 0;
 }
 
-.bg-main{
+.bg-main {
     background-color: #fff;
 
 }
+
 .bg-blue {
     background-color: #2F60AD;
 }
@@ -291,6 +296,10 @@ iframe.youtube {
 
 
 @media (min-width: 320px) and (max-width: 374.98px) {
+    .setmt {
+        margin-top: 50px;
+    }
+
     .color-topic {
         text-align: center;
     }
@@ -380,6 +389,10 @@ iframe.youtube {
 }
 
 @media (max-width: 576px) {
+    .setmt {
+        margin-top: 50px;
+    }
+
     .color-topic {
         text-align: center;
     }
@@ -456,6 +469,10 @@ iframe.youtube {
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
+    .setmt {
+        margin-top: 70px;
+    }
+
     .display-logo {
         display: none;
     }
@@ -581,6 +598,7 @@ iframe.youtube {
     .dropdown-menu>li:hover>.submenu {
         display: block;
     }
+
     .layout {
         display: flex;
         justify-content: end;

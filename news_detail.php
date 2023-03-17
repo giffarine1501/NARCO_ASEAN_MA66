@@ -3,7 +3,7 @@
 <?php include('header.php'); ?>
 
 <!-- -----------start header2----------- -->
-<div class="bg-short">
+<div class="bg-short setmt">
     <div class="container py-4 text-center">
         <h1 class="color-topic">ข่าวสาร</h1>
         <small><a href="index.php" class="color-topic2">หน้าหลัก</a> / <a href="mor_news.php"
